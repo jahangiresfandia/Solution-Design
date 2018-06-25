@@ -14,10 +14,10 @@ On summer semester of 2018, we are taking ‘Solution Design’ course presented
 
 Members of Group:
 
-We are 3rd semester Master students of Medical Systems Engineering. the 
+We are four 3rd semester Master students of Medical Systems Engineering. 
 
 Idea:
 
-Drinking spoiled milk or juices always causes a variety of medical problem especially for children. Detecting the condition of the beverage in immediately and with a portable device could be an effective resolution to this complex problem while different beverages have different characteristics and it is quite difficult to find a mutual solution.  
+Drinking spoiled milk or juices always causes a variety of medical problem especially for children. Detecting the condition of the beverage immediately and with a portable device could be an effective resolution to this complex problem while different beverages have different characteristics and it is quite difficult to find a mutual solution.  
 
  
